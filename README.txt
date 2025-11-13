@@ -1,0 +1,1 @@
+DocumentIntelligenceAgent .NET 9 solution. Run dotnet restore and dotnet run in the project folder.
